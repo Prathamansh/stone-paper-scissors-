@@ -37,6 +37,10 @@ Choose Rock, Paper, or Scissors by clicking the buttons.
 
 The bot will randomly select one of the three choices.
 
+
+I hope you like it. -Prathamansh
+
+
 The result will be displayed along with your updated score.
 
 If you lose, your high score is updated, and you can play again or exit.
