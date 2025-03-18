@@ -10,7 +10,7 @@ Installation & Setup
 
 Clone this repository
 
-git clone https://github.com/your-username/stone-paper-scissors.git
+git clone https://github.com/Prathamansh/stone-paper-scissors.git
 cd stone-paper-scissors
 
 Install dependencies
